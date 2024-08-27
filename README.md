@@ -5,6 +5,8 @@
 
 ## Description
 
+My changes.
+
 The sqlfmt formats PostgreSQL statements in `.go` files into a consistent style.
 
 ## Example
